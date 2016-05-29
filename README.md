@@ -10,4 +10,10 @@ INSTRUCTIONS:
 drop to zero. Once the survive timer runs out, advance to the next level by pressing the button in the
 lower right hand side of the screen.
 *The space bar to fire the lasers only works at the boss level.
-# Project gal edited
+
+
+SCREENSHOTS
+______________________________________
+
+![Screenshot1](PROJECT_GALAXY/gal1.png)
+![Screenshot2](PROJECT_GALAXY/gal2.png)
